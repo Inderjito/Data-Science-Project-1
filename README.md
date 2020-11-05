@@ -1,5 +1,8 @@
 **Data Science Project 1( Write a blog using Airbnd dataset)**
 
+![New York City](https://medium.com/r/?url=https%3A%2F%2Funsplash.com%3Futm_source%3Dmedium%26utm_medium%3Dreferral
+)
+
 ## Introduction
 This is my first Data Science Project. Here is the link to my blog
 To complete this project I used 2019 Airbnb Dataset
