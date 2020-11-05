@@ -1,7 +1,7 @@
 **Data Science Project 1( Write a blog using Airbnd dataset)**
 
-![New York City](https://medium.com/r/?url=https%3A%2F%2Funsplash.com%3Futm_source%3Dmedium%26utm_medium%3Dreferral
-)
+![New York City](https://images.unsplash.com/photo-1531887259712-aa6e090e9289?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2468&q=80)
+
 
 ## Introduction
 This is my first Data Science Project. Here is the link to my blog
