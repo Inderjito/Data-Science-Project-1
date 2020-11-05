@@ -28,5 +28,6 @@ The motivation behind this project, is to help guests visiting NYC, make better 
 4. Seaborn
 
 **Conclusion**
+
 Based on my analysis I was able to provide statistic on the different room types available for guest, numbers of room available and overview of the price range base on locationa and room type in the five borough of New York City.
 
