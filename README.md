@@ -4,8 +4,11 @@
 
 
 ## Introduction
-This is my first Data Science Project. Here is the link to my blog
+This is my first Data Science Project. Here is the link to my blog[blog page](https://sunita-inderjit.medium.com/)
+
+
 To complete this project I used 2019 Airbnb Dataset
+
 Link to dataset[Airbnb](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data)
 
 
